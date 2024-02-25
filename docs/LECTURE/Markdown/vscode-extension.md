@@ -1,14 +1,17 @@
 # 安装VSCode和Markdown插件
 
-> 暂时不想安装 VSCode，也可以使用在线的 Markdown编辑器。如 <https://stackedit.io/app#>
+本篇直接引用杨希杰学长网站
+
+
+> 暂时不想安装 VSCode，也可以使用在线的 Markdown编辑器。如 [https://stackedit.io/app#](https://stackedit.io/app#)
 
 ## 安装 VSCode
 
 > 如果已经安装了 VSCode，推荐检查一下更新保持最新版本：
-> 
+>
 > ![](./images/vscode-update.png)
 
-打开 <https://code.visualstudio.com/Download>
+打开 [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
 按照自己的电脑操作系统选择安装包进行下载。
 

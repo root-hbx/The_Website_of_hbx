@@ -20,7 +20,7 @@ nav:
       - Markdown讲座: LECTURE/Markdown/markdown.md
       - VSCode及插件安装: LECTURE/Markdown/vscode-extension.md
     - Git:
-      - Git学习指南: LECTURE/Git/git学习指南.md
+      - Git学习指南: LECTURE/Git/git学习指南前言.md
       - Git个人使用: LECTURE/Git/git个人使用.md
       - Git团队协作: LECTURE/Git/git团队协作.md
       - Gitignore使用规范: LECTURE/Git/gitignore使用规范.md
