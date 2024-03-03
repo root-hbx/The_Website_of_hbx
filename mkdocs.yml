@@ -12,7 +12,6 @@ nav:
       - Linux讲座: LECTURE/Linux/linux.md
       - Linux101教程: LECTURE/Linux/linux101.md
       - 命令行入门精简版: LECTURE/Linux/commands-concise.md
-      - Linux101学习指南: LECTURE/Linux/Linux101学习笔记.md
     - Shell:
       - Linux命令行的艺术: LECTURE/Shell/Linux命令行的艺术.md
       - MacOS命令行的艺术: LECTURE/Shell/MacOS命令行的艺术.md
