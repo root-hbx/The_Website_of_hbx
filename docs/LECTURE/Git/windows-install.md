@@ -1,5 +1,8 @@
 # 在Windows上安装Git
 
+此部分直接引用杨希杰学长的网站
+
+
 ## 下载Git安装包
 
 打开网址 https://git-scm.com/downloads
@@ -14,13 +17,13 @@
 
 ![](./media/install-win-2.png)
 
-下载好之后获得`Git-2.37.3-64-bit.exe`（我这里存储到桌面）
+下载好之后获得 `Git-2.37.3-64-bit.exe`（我这里存储到桌面）
 
 ![](./media/install-win-3.png)
 
 ## 安装Git
 
-双击打开`Git-2.37.3-64-bit.exe`，点击`是`
+双击打开 `Git-2.37.3-64-bit.exe`，点击 `是`
 
 ![](./media/install-win-4.png)
 

@@ -12,13 +12,19 @@ nav:
       - Linux讲座: LECTURE/Linux/linux.md
       - Linux101教程: LECTURE/Linux/linux101.md
       - 命令行入门精简版: LECTURE/Linux/commands-concise.md
+      - Linux101学习指南: LECTURE/Linux/Linux101学习笔记.md
+    - Shell:
+      - Linux命令行的艺术: LECTURE/Shell/Linux命令行的艺术.md
+      - MacOS命令行的艺术: LECTURE/Shell/MacOS命令行的艺术.md
+      - Shell脚本编程: LECTURE/Shell/Shell脚本编程.md
     - Markdown:
       - Markdown讲座: LECTURE/Markdown/markdown.md
       - VSCode及插件安装: LECTURE/Markdown/vscode-extension.md
     - Git:
-      - Git: LECTURE/Git/git.md
-      - Git例子: LECTURE/Git/git-demos.md
-      - Git合作: LECTURE/Git/git-teamwork.md
+      - Git学习指南: LECTURE/Git/git学习指南前言.md
+      - Git个人使用: LECTURE/Git/git个人使用.md
+      - Git团队协作: LECTURE/Git/git团队协作.md
+      - Gitignore使用规范: LECTURE/Git/gitignore使用规范.md
       - Windows安装Git: LECTURE/Git/windows-install.md
     - 在macOS上用VSCode写C++代码:
       - 0 介绍: LECTURE/vscode-cpp/0_about.md
@@ -33,7 +39,15 @@ nav:
       - 其他: LECTURE/vscode-cpp/9_others.md
       - 极速版: LECTURE/vscode-cpp/10_极速版.md
       - 补充: LECTURE/vscode-cpp/11_补充.md
-    - ns-3的配置:
+    - Docker:
+      - Docker学习指南前言: LECTURE/Docker/Docker学习指南前言.md
+      - Docker安装: LECTURE/Docker/Docker安装.md
+      - Docker制作镜像: LECTURE/Docker/Docker制作镜像.md
+      - Docker目录挂载: LECTURE/Docker/Docker目录挂载.md
+      - Docker多容器通信: LECTURE/Docker/Docker多容器通信.md
+      - Docker多服务集成运行: LECTURE/Docker/Docker多服务集成运行.md
+      - Docker发布与部署: LECTURE/Docker/Docker发布与部署.md
+    - ns-3:
       - 保姆级配置教程: LECTURE/ns-3/ns3.md
     - terminal_zsh:
       - mac的终端优化: LECTURE/terminal_zsh/oh_my_zsh.md
@@ -55,6 +69,8 @@ nav:
     - OS:
       - BLOG/OS/fork-exec-spawn.md
       - BLOG/OS/fork-example.md
+    - Vim:
+      - BLOG/Vim/Vim配置指南.md
 
   - 计算机课程整理:
     - curriculum_study/index.md
