@@ -10,6 +10,7 @@ nav:
     - LECTURE/index.md 
     - Linux:
       - Linux讲座: LECTURE/Linux/linux.md
+      - Linux101教程: LECTURE/Linux/linux101.md
       - 命令行入门精简版: LECTURE/Linux/commands-concise.md
     - Markdown:
       - Markdown讲座: LECTURE/Markdown/markdown.md
