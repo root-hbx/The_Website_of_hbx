@@ -43,7 +43,16 @@
 ### 湖南游记
 ![2022湖南](./photo/tour7.jpg)
 ### 晋中游记
-![2022山西](./photo/tour8.jpg)
-![2022山西](./photo/tour9.jpg)
-![2022山西](./photo/tour10.jpg)
-![2022山西](./photo/tour11.jpg)
+![2023山西](./photo/tour8.jpg)
+![2023山西](./photo/tour9.jpg)
+![2023山西](./photo/tour10.jpg)
+![2023山西](./photo/tour11.jpg)
+### 金陵游记
+![2024南京](./photo/WechatIMG821.jpg)
+![2024南京](./photo/WechatIMG822.jpg)
+### 苏州游记
+![2024苏州](./photo/WechatIMG823.jpg)
+![2024苏州](./photo/WechatIMG824.jpg)
+![2024苏州](./photo/WechatIMG825.jpg)
+![2024苏州](./photo/WechatIMG826.jpg)
+![2024苏州](./photo/WechatIMG827.jpg)
