@@ -22,12 +22,12 @@
         - 本班隶属于钱学森学院，全员保研。本人现已具备推免资格！
 
 ## 教育经历
-- `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class (Qian Xuesen Honor Science)
+- `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, **_Xi'an Jiaotong University_** 
     - Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
 
     - Under the guidance of Professor [Danfeng Shan](https://dfshan.github.io/)
 
-- `2024.3 - 2024.6` Visiting Student in Computer Science Department, Carnegie Mellon University
+- `2024.3 - 2024.6` Visiting Student in Computer Science Department, **_Carnegie Mellon University_**
     - Relevant Coursework: Probability Analysis , Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
     - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff).
