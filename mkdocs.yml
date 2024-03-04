@@ -26,19 +26,6 @@ nav:
       - Git团队协作: LECTURE/Git/git团队协作.md
       - Gitignore使用规范: LECTURE/Git/gitignore使用规范.md
       - Windows安装Git: LECTURE/Git/windows-install.md
-    - 在macOS上用VSCode写C++代码:
-      - 0 介绍: LECTURE/vscode-cpp/0_about.md
-      - 1 前言和课程说明: LECTURE/vscode-cpp/1_前言和课程说明.md
-      - 2 认识macOS的文件系统: LECTURE/vscode-cpp/2_认识macOS的文件系统.md
-      - 3 认识程序: LECTURE/vscode-cpp/3_认识程序.md
-      - 4 认识终端和shell: LECTURE/vscode-cpp/4_认识终端和shell.md
-      - 5 开启VSCode的大门: LECTURE/vscode-cpp/5_开启VSCode的大门.md
-      - 6 VSCode代码运行自动化: LECTURE/vscode-cpp/6_VSCode代码运行自动化.md
-      - 7 用VSCode调试Cpp代码: LECTURE/vscode-cpp/7_用VSCode调试Cpp代码.md
-      - 8 课程回顾: LECTURE/vscode-cpp/8_课程回顾.md
-      - 其他: LECTURE/vscode-cpp/9_others.md
-      - 极速版: LECTURE/vscode-cpp/10_极速版.md
-      - 补充: LECTURE/vscode-cpp/11_补充.md
     - Docker:
       - Docker学习指南前言: LECTURE/Docker/Docker学习指南前言.md
       - Docker安装: LECTURE/Docker/Docker安装.md
@@ -57,11 +44,11 @@ nav:
     - BLOG/others.md
     - Markdown:
       - BLOG/Markdown/grammars.md
+    - GithubPages:
       - BLOG/Markdown/mkdocs-site.md
       - BLOG/Markdown/mdbook-site.md
       - BLOG/Markdown/github-pages.md
     - Linux:
-      - BLOG/Linux/vim.md
       - BLOG/Linux/tmux.md
       - BLOG/Linux/unix.md
       - BLOG/Linux/kernel-compile.md
@@ -71,6 +58,20 @@ nav:
       - BLOG/OS/fork-example.md
     - Vim:
       - BLOG/Vim/Vim配置指南.md
+      - BLOG/Vim/vim.md
+    - 在macOS上用VSCode写C++代码:
+      - 0 介绍: BLOG/vscode-cpp/0_about.md
+      - 1 前言和课程说明: BLOG/vscode-cpp/1_前言和课程说明.md
+      - 2 认识macOS的文件系统: BLOG/vscode-cpp/2_认识macOS的文件系统.md
+      - 3 认识程序: BLOG/vscode-cpp/3_认识程序.md
+      - 4 认识终端和shell: BLOG/vscode-cpp/4_认识终端和shell.md
+      - 5 开启VSCode的大门: BLOG/vscode-cpp/5_开启VSCode的大门.md
+      - 6 VSCode代码运行自动化: BLOG/vscode-cpp/6_VSCode代码运行自动化.md
+      - 7 用VSCode调试Cpp代码: BLOG/vscode-cpp/7_用VSCode调试Cpp代码.md
+      - 8 课程回顾: BLOG/vscode-cpp/8_课程回顾.md
+      - 其他: BLOG/vscode-cpp/9_others.md
+      - 极速版: BLOG/vscode-cpp/10_极速版.md
+      - 补充: BLOG/vscode-cpp/11_补充.md
 
   - 计算机课程整理:
     - curriculum_study/index.md
