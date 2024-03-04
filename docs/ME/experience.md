@@ -30,7 +30,7 @@
 - `2024.3 - 2024.6` Visiting Student in Computer Science Department, **_Carnegie Mellon University_**
     - Relevant Coursework: Probability Analysis , Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
-    - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff).
+    - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff)
 
 ## 本科课程
 - 数理基础
@@ -82,7 +82,7 @@
 - `2024.1` 参与西安交通大学寒假社会实践项目，主题为“数字化调研新农村发展模式随迁老人生活”（项目编号：XJTU202408147）
 
 ## 科研经历
-- `2023.6 - 至今` 西安交通大学计算机学院ANTS实验室 [单丹枫](https://dfshan.github.io)教授
+- `2023.6 - 至今` 西安交通大学计算机学院ANTS实验室 [单丹枫](https://dfshan.github.io) 教授
     - 了解了 计算机网络的基础
     - 学习了 计算机网络与计算机系统知识
     - 了解了 从事科研的思路
