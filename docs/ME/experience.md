@@ -16,31 +16,48 @@
             - 熟练使用 Linux 和相关工具
             - 编程能力强  熟练使用 Python / C++ 等编程语言
     - 学分绩
-        - 平均学分绩 3.78
-        - 平均分数：89.98/100
+        - 平均学分绩 3.81
+        - 平均分数：89.72/100
     - 研究生推免
         - 本班隶属于钱学森学院，全员保研。本人现已具备推免资格！
-    
+
+## 教育经历
+- `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class (Qian Xuesen Honor Science)
+    - Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
+
+    - Under the guidance of Professor [Danfeng Shan](https://dfshan.github.io/)
+
+- `2024.3 - 2024.6` Visiting Student in Computer Science Department, Carnegie Mellon University
+    - Relevant Coursework: Probability Analysis , Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
+
+    - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff).
+
 ## 本科课程
 - 数理基础
     - 数学（线性代数与解析几何 离散数学 工科数学分析 概率论与随机过程 数学物理方程 数值分析）
     - 物理（大学物理学I/II）
+
 - 电子信息
     - 电路（电路[国家名师] 电子技术基础）
+
 - 计算机科学
     - 基础（计算机程序设计 数据结构与算法[拔尖班] 优化方法基础 计算机科学技术导论）
     - 核心（计算机系统导论 形式语言与编译 认知计算与机器学习 计算机体系结构 计算机组成原理 操作系统 计算机网络 数据库系统）
     - 综合（软件定义网络 数据仓库与数据挖掘 计算机图形学 自然语言理解与机器翻译 计算机视觉与模式识别）
+
 - 实验（物理实验 综合工程训练 MATLAB数学建模分析与应用）
+
 - 思想政治（思想道德修养与法律基础 中国近现代史纲要 马克思主义基本原理 形势与政策 习近平新时代中国特色社会主义思想概论 毛泽东思想和中国特色社会主义理论体系概论 军事理论 军事技能）
+
 - 文化素质（表达与交流[院士授课] 英语演讲与艺术 宏观经济学 欧洲浪漫音乐派鉴赏）
+
 - 语言（雅思英语 托福英语 英语学术写作）
 
 ## 本科证书
 - the First provincial-level Prize in Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), 2023
 - the First provincial-level Prize in The Chinese Mathematics Competitions(CMC), 2023 
 - the Third Prize in National College Student Olympic Mathematics Competition(CSOMC), 2023
-- the Second school-level Prize in International Collegiate Programming Contest(ICPC), 2023
+- the Second school-level Prize (ranking 9/103) in International Collegiate Programming Contest(ICPC), 2023
 
 ## 奖学金
 - `2023.9` Scholarship for Outstanding Students, Third Prize, Xi'an Jiaotong University
@@ -51,25 +68,28 @@
 - `2023.11 - 2024.11` 西安交通大学钱学森书院慎独党支部-中共预备党员
 - `2024.11 - 至今` 西安交通大学钱学森书院慎独党支部-中共党员
 
-1. 主持慎独党支部三月组织生活会，负责宣讲 “时政热点” 部分内容
-2. 主持慎独党支部十月学习会，负责宣讲 “党史故事” 部分内容
-3. 主持慎独党支部十一月积极分子培训会，负责培训“党内政治活动准则”
-4. 参加发展对象讨论班，担任研讨组长，负责讲解”新形势下党内政治活动准则“
+1. 主持慎独党支部三月组织生活会，负责宣讲 “时政热点” 部分内容（2023）
+2. 主持慎独党支部十月学习会，负责宣讲 “党史故事” 部分内容（2023）
+3. 主持慎独党支部十一月积极分子培训会，负责培训“党内政治活动准则”（2023）
+4. 参加发展对象讨论班，担任研讨组长，负责讲解“新形势下党内政治活动准则”（2023）
+5. 主持慎独党支部十二月学习会（2023）
+6. 主持慎独党支部二月组织生活会（2024）
 
 ## 校园生活与社会实践
 - `2023.1` “校园大使”高校返校宣讲活动
 - `2023.5` “新时代计算机学科创新发展论坛”志愿活动
 - `2023.9` 当选钱学森书院第四次学生代表大会院级正式代表
+- `2024.1` 参与西安交通大学寒假社会实践项目，主题为“数字化调研新农村发展模式随迁老人生活”（项目编号：XJTU202408147）
 
-## 科研
+## 科研经历
 - `2023.6 - 至今` 西安交通大学计算机学院ANTS实验室 [单丹枫](https://dfshan.github.io)教授
     - 了解了 计算机网络的基础
     - 学习了 计算机网络与计算机系统知识
-    - 了解了 科研的思路
+    - 了解了 从事科研的思路
     - 已尝试 复现论文《RDMA over Commodity Ethernet at Scale》
     - 正在进行 复现论文《ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks》并计划基于此发表一篇CCF-A期刊
 
-## 项目
+## 项目经历
 
 ### 基于NAND闪存的芯片检测优化
 
