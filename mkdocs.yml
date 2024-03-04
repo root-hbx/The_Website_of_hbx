@@ -18,6 +18,7 @@ nav:
       - Shell脚本编程: LECTURE/Shell/Shell脚本编程.md
     - Markdown:
       - Markdown讲座: LECTURE/Markdown/markdown.md
+      - Markdown教程: LECTURE/Markdown/markdown_Tutorial.md
       - VSCode及插件安装: LECTURE/Markdown/vscode-extension.md
     - Git:
       - Git学习指南: LECTURE/Git/git学习指南前言.md
@@ -207,7 +208,7 @@ theme:
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 repo_url: https://github.com/root-hbx # 右上角点击跳转的链接
-repo_name: GithubRepo_Of_hbx # 右上角的名字
+repo_name: GithubRepo_of_hbx # 右上角的名字
 ## [bottom-left corner]
 copyright: 胡博瑄 # 左下角的版权声明
 ## [bottom-right corner]
