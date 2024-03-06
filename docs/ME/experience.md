@@ -100,7 +100,7 @@
     - 了解了 从事科研的思路
     - 已实现 复现论文《RDMA over Commodity Ethernet at Scale》
     - 正在进行 复现论文《ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks》
-    - 计划 在2024年6月在国际计算机顶级会议 [ACM SIGCOMM](https://www.sigcomm.org/) 投稿
+    - 计划 于2024年6月在国际计算机顶级会议 [ACM SIGCOMM](https://www.sigcomm.org/) 投稿
 
 ## 项目经历
 
