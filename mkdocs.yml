@@ -36,12 +36,13 @@ nav:
       - Docker发布与部署: LECTURE/Docker/Docker发布与部署.md
     - ns-3:
       - 保姆级配置教程: LECTURE/ns-3/ns3.md
-    - terminal_zsh:
+    - OhMyZsh:
       - mac的终端优化: LECTURE/terminal_zsh/oh_my_zsh.md
     
   - 常用开发简介:
     - BLOG/index.md
     - BLOG/others.md
+    - BLOG/tool.md
     - Markdown:
       - BLOG/Markdown/grammars.md
     - GithubPages:
