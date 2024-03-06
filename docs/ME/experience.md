@@ -1,7 +1,7 @@
 # 个人经历
 
 ## 自我介绍
-胡博瑄，安徽合肥人，2004年2月生。平日里热衷于写代码，制作各种小项目，有志于从事计算机科研；兴趣爱好广泛，喜欢羽毛球与网球，热爱旅游与登山，偶尔也会去参加马拉松比赛。
+胡博瑄，安徽合肥人，2004年2月生。平日里热衷于写代码，制作各种小项目，有志于从事计算机科研；兴趣爱好广泛，喜欢羽毛球与网球，热爱旅游与登山，偶尔也会参加马拉松比赛。
 
 ## 学习经历
 - `2010.9 - 2016.6` 安徽省合肥市滁州路小学
@@ -13,39 +13,51 @@
         - 过硬的英语水平
         - 全维度掌握计算机学科的基础知识
         - 掌握计算机学科的基础知识和相关工具
-            - 熟练使用 Linux 和相关工具
+            - 熟练使用 Linux 和相关开发工具
             - 编程能力强  熟练使用 Python / C++ 等编程语言
+            - 熟悉网络编程 曾独立制作[个人学术主页](https://root-hbx.github.io/)和[计算机开源网站](https://root-hbx.github.io/The_Website_of_hbx/)
+        - 科研领域涉猎广泛，主要研究计算机网络
+            - 熟练使用网络模拟工具[ns-3](https://www.nsnam.org/)，并公开发布相关教程
+            - 在本科生范围内，对数据中心网络有较为深入的研究
+            - 科研经验相对丰富，曾独立实现多篇论文复现
     - 学分绩
-        - 平均学分绩 3.81
-        - 平均分数：89.72/100
+        - 平均学分绩：3.81 / 4.30
+        - 平均分数：89.72 / 100
+        - 智育学分绩：3.89 / 4.30
+        - 智育成绩：90.74 / 100
     - 研究生推免
         - 本班隶属于钱学森学院，全员保研。本人现已具备推免资格！
 
-## 教育经历
+## 教育履历
 - `2022.9 - 2026.6` B.S. in Computer Science and Technology Experimental Class, **_Xi'an Jiaotong University_** 
     - Main Research Areas: Datacenter Networks , Congestion Control , Traffic Management
 
     - Under the guidance of Professor [Danfeng Shan](https://dfshan.github.io/)
 
 - `2024.3 - 2024.6` Visiting Student in Computer Science Department, **_Carnegie Mellon University_**
-    - Relevant Coursework: Probability Analysis , Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
+    - Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
     - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff)
 
 ## 本科课程
 - 数理基础
-    - 数学（线性代数与解析几何 离散数学 工科数学分析 概率论与随机过程 数学物理方程 数值分析）
+    - 数学（工科数学分析I/II 线性代数与解析几何 离散数学A 组合数学 概率统计与随机过程 数学物理方程 数值分析 复杂网络动力学基础）
     - 物理（大学物理学I/II）
 
 - 电子信息
-    - 电路（电路[国家名师] 电子技术基础）
+    - 电路（电路[国家名师] 电子技术基础 电子系统设计专题实验I/II 大规模集成电路设计基础）
 
 - 计算机科学
-    - 基础（计算机程序设计 数据结构与算法[拔尖班] 优化方法基础 计算机科学技术导论）
-    - 核心（计算机系统导论 形式语言与编译 认知计算与机器学习 计算机体系结构 计算机组成原理 操作系统 计算机网络 数据库系统）
-    - 综合（软件定义网络 数据仓库与数据挖掘 计算机图形学 自然语言理解与机器翻译 计算机视觉与模式识别）
+    - 基础（计算机程序设计 计算机科学技术导论 数据结构与算法[拔尖班] 算法设计与分析 优化方法基础）
+    - 核心（计算机系统导论 形式语言与编译 汇编语言 计算机体系结构 计算机组成原理 操作系统 计算机网络 数据库系统 人工智能导论 认知计算与机器学习）
+    - 综合（JAVA语言程序设计 Rust语言程序设计 软件定义网络 网络与信息安全 数据仓库与数据挖掘 计算机图形学 自然语言理解与机器翻译 计算机视觉与模式识别）
 
-- 实验（物理实验 综合工程训练 MATLAB数学建模分析与应用）
+- 计算机交叉学科
+    - 通信（信号与系统III 通信原理II 数字信号处理）
+    - 自控（自动控制原理II 嵌入式智能系统）
+    - 生物（神经生物学与脑科学）
+
+- 实验（大学物理实验I/II 综合工程训练 MATLAB数学建模分析与应用）
 
 - 思想政治（思想道德修养与法律基础 中国近现代史纲要 马克思主义基本原理 形势与政策 习近平新时代中国特色社会主义思想概论 毛泽东思想和中国特色社会主义理论体系概论 军事理论 军事技能）
 
@@ -82,12 +94,13 @@
 - `2024.1` 参与西安交通大学寒假社会实践项目，主题为“数字化调研新农村发展模式随迁老人生活”（项目编号：XJTU202408147）
 
 ## 科研经历
-- `2023.6 - 至今` 西安交通大学计算机学院ANTS实验室 [单丹枫](https://dfshan.github.io) 教授
+- `2023.6 - 至今` 西安交通大学计算机学院[ANTS](http://www.cs.xjtu.edu.cn/info/2373/2269.htm)实验室 [单丹枫](https://dfshan.github.io) 教授
     - 了解了 计算机网络的基础
     - 学习了 计算机网络与计算机系统知识
     - 了解了 从事科研的思路
-    - 已尝试 复现论文《RDMA over Commodity Ethernet at Scale》
-    - 正在进行 复现论文《ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks》并计划基于此发表一篇CCF-A期刊
+    - 已实现 复现论文《RDMA over Commodity Ethernet at Scale》
+    - 正在进行 复现论文《ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks》
+    - 计划 在2024年6月在国际计算机顶级会议 [ACM SIGCOMM](https://www.sigcomm.org/) 投稿
 
 ## 项目经历
 
