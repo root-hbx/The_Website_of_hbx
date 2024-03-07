@@ -9,4 +9,4 @@
 - 个人认为，系统学习运维知识有助于从宏观角度理解“底层实现”
 
 #### 附注
-- 这一部分笔者引用了[杨希杰学长的网站]([https://yang-xijie.github.io/LECTURE/](https://yang-xijie.github.io/LECTURE/))的部分内容，引用处均加以说明
+- 这一部分笔者引用了[杨希杰学长的网站](https://yang-xijie.github.io/LECTURE/)的部分内容，引用处均加以说明
