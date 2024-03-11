@@ -126,6 +126,9 @@ nav:
       - curriculum_study/Algorithm_XJTU/qimo_review.md
       - curriculum_study/Algorithm_XJTU/qimo_big.md
       - curriculum_study/Algorithm_XJTU/qimo_exe.md
+    - Software Defined Network:
+      - 0 Preface: curriculum_study/SDN/Lecture0_Preface.md
+      - 1 Network Fundamentals: curriculum_study/SDN/Lecture1_Network_Fundamentals.md
 
   - 优秀论文整理:
     - sci/index.md
