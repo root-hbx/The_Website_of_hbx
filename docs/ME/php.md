@@ -5,6 +5,7 @@
 ## 钱学森书院慎独党支部讲课
 ![2023党支部讲课photo1](./photo/dzb1.jpg)
 ![2023党支部讲课photo2](./photo/dzb2.jpg)
+![2024党支部讲课photo3](./photo/dzb3.jpg)
 ## 钱学森书院学生代表大会
 ![2023钱学森书院学生代表大会photo1](./photo/xuedaihui1.jpg)
 ![2023钱学森书院学生代表大会photo2](./photo/xuedaihui2.jpg)
