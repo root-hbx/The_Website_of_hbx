@@ -1,7 +1,6 @@
 # 个人能力
 
 ## 交流语言
-
 - Native Language: Mandarin
 - CET-6：579
 - Ielts：7.0
@@ -15,6 +14,9 @@
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 - [Assembly Language - X86_64](http://6.s081.scripts.mit.edu/sp18/x86-64-architecture-guide.html)
 
+## 科研工具
+- [ns-3](https://www.nsnam.org/)
+- [mininet](https://mininet.org/)
 
 ## 系统开发
 - [Linux](https://www.kernel.org/)
@@ -26,7 +28,6 @@
 - [.NET](https://dotnet.microsoft.com/zh-cn/)
 
 ## 文本创作
-
 - [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [Obsidian](https://obsidian.md/) 
 - [Keynote](https://www.apple.com/keynote/)
