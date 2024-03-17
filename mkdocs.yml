@@ -123,9 +123,9 @@ nav:
       - curriculum_study/Info-theory/lec13.md
       - curriculum_study/Info-theory/lec14.md
     - Algorithm_design:
-      - curriculum_study/Algorithm_XJTU/qimo_review.md
-      - curriculum_study/Algorithm_XJTU/qimo_big.md
-      - curriculum_study/Algorithm_XJTU/qimo_exe.md
+      - 1. 期末备考指南: curriculum_study/Algorithm_XJTU/qimo_review.md
+      - 2. 常用算法模板: curriculum_study/Algorithm_XJTU/qimo_big.md
+      - 3. 练习题: curriculum_study/Algorithm_XJTU/qimo_exe.md
     - Software Defined Network:
       - 0 Preface: curriculum_study/SDN/Lecture0_Preface.md
       - 1 Network Fundamentals: curriculum_study/SDN/Lecture1_Network_Fundamentals.md
@@ -163,12 +163,13 @@ nav:
   - 科研软件指南:
     - Sci_doc/index.md
     - ns-3:
-      - 0 ns-3及其基础配置: Sci_doc/ns-3/ch0.md
-      - 1 入门程序解析: Sci_doc/ns-3/ch1.md
-      - 2 显示结果的优化: Sci_doc/ns-3/ch2.md
-      - 3 模拟建立拓扑结构: Sci_doc/ns-3/ch3.md
-      - 4 ns-3_tracing的全部实现机理: Sci_doc/ns-3/ch4.md
-      - 5 ns-3_Data-Collection: Sci_doc/ns-3/ch5.md
+      - 0 ns-3 基础配置: Sci_doc/ns-3/ch0.md
+      - 1 ns-3入门程序解析: Sci_doc/ns-3/ch1.md
+      - 2 ns-3 参数控制: Sci_doc/ns-3/ch2.md
+      - 3 ns-3 模拟建立拓扑: Sci_doc/ns-3/ch3.md
+      - 4 ns-3 tracing的全部实现机理: Sci_doc/ns-3/ch4.md
+      - 5 ns-3 Data-Collection: Sci_doc/ns-3/ch5.md
+      - 6 ns-3 复盘思考: Sci_doc/ns-3/ch6.md
 
   - 猜猜我是谁:
     - ME/index.md
