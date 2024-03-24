@@ -38,6 +38,16 @@
     - Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
     - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff)
+- `2024.5 - 2024.7` Visiting Student in School of Computing, **_National University of Singapore_**
+    - Main Research Areas:
+  
+    - Under the guidance of Professor
+
+- `2024.8 - 2024.12` Visiting Student in Department of Electrical Engineering and Computer Sciences, **_University of California, Berkeley_**
+    - Main Research Areas:
+  
+    - Under the guidance of Professor
+
 
 ## 本科课程
 - 数理基础
