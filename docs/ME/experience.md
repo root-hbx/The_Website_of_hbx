@@ -34,14 +34,18 @@
 
     - Under the guidance of Professor [Danfeng Shan](https://dfshan.github.io/)
 
+
 - `2024.3 - 2024.6` Visiting Student in Computer Science Department, **_Carnegie Mellon University_**
     - Relevant Coursework: Amortized Analysis and Potential Functions , Dual Algorithmic Design , Machine Learning and Data Streams
 
     - Under the guidance of Professor [David Woodruff](https://csd.cmu.edu/people/faculty/david-woodruff)
+  
+
 - `2024.5 - 2024.7` Visiting Student in School of Computing, **_National University of Singapore_**
     - Main Research Areas:
   
     - Under the guidance of Professor
+
 
 - `2024.8 - 2024.12` Visiting Student in Department of Electrical Engineering and Computer Sciences, **_University of California, Berkeley_**
     - Main Research Areas:
@@ -105,9 +109,8 @@
 
 ## 科研经历
 - `2023.6 - 至今` 西安交通大学计算机学院[ANTS](http://www.cs.xjtu.edu.cn/info/2373/2269.htm)实验室 [单丹枫](https://dfshan.github.io) 教授
-    - 了解了 计算机网络的基础
+    - 了解了 计算机网络的基础、尝试科研的思路
     - 学习了 计算机网络与计算机系统知识
-    - 了解了 从事科研的思路
     - 已实现 复现论文《RDMA over Commodity Ethernet at Scale》
     - 正在进行 复现论文《ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks》
     - 计划 于2024年6月在国际计算机顶级会议 [ACM SIGCOMM](https://www.sigcomm.org/) 投稿
@@ -116,12 +119,18 @@
 
 ### 基于NAND闪存的芯片检测优化
 
-- `2023.10` 参与西安交通大学计算机学院高性能计算团队 
+- `2023.10` 参与计算机学院高性能计算团队 
     - 设计芯片检测的优化（基于NAND闪存）
-    - 师从助理教授[聂世强](https://gr.xjtu.edu.cn/en/web/shiqiang/home?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_state_rcv=1)
+    - 指导教师: [聂世强](https://gr.xjtu.edu.cn/en/web/shiqiang/home?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_state_rcv=1), Xi'an Jiaotong University
 
 ### 新生儿脑积水检测的优化识别与自动分析
-- `2023.10` 参与西安交通大学生物医学工程团队
-    - 从事交叉学科项目研究
-    - 进行“磁共振影像的脑室识别与分割”项目训练
-    - 师从西安交通大学第一附属医院副研究员[金超](http://medgs.xjtu.edu.cn/info/1366/10086.htm)
+- `2023.11` 参与生物医学工程团队
+    - 主导“磁共振影像的脑室识别与分割”项目构建
+    - 指导教师: [金超](http://medgs.xjtu.edu.cn/info/1366/10086.htm), Xi'an Jiaotong University
+      - 目前已发布软件著作权，正在申请国家专利
+
+### 基于Unity的2D游戏开发
+- `2024.03` 参与计算机试验班2D游戏开发小组
+    - 指导教师: [Kelvin Sung (宋賢清)](https://faculty.washington.edu/ksung/), University of Washington Bothell
+    - 项目组: [NullReferenceMaster](https://github.com/NullRefMaster)
+    - [游戏访问网站 (click here and play now)](https://nullrefmaster.github.io/Suicide/)
