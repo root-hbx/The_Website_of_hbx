@@ -122,13 +122,19 @@ nav:
       - curriculum_study/Info-theory/lec12.md
       - curriculum_study/Info-theory/lec13.md
       - curriculum_study/Info-theory/lec14.md
-    - Algorithm_design:
+    - Algorithm Design:
       - 1. 期末备考指南: curriculum_study/Algorithm_XJTU/qimo_review.md
       - 2. 常用算法模板: curriculum_study/Algorithm_XJTU/qimo_big.md
       - 3. 练习题: curriculum_study/Algorithm_XJTU/qimo_exe.md
     - Software Defined Network:
       - 0 Preface: curriculum_study/SDN/Lecture0_Preface.md
       - 1 Network Fundamentals: curriculum_study/SDN/Lecture1_Network_Fundamentals.md
+    - Introduction to 2D Game Development:
+      - Outline: curriculum_study/Introduction_to_2D_Game_Development/M0.md
+      - Module 1: curriculum_study/Introduction_to_2D_Game_Development/M1.md
+      - Module 2: curriculum_study/Introduction_to_2D_Game_Development/M2.md
+      - Module 3: curriculum_study/Introduction_to_2D_Game_Development/M3.md
+      - Module 4: curriculum_study/Introduction_to_2D_Game_Development/M4.md
 
   - 优秀论文整理:
     - sci/index.md
