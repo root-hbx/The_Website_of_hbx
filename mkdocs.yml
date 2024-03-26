@@ -1,8 +1,8 @@
 # [Info]
-site_name: carrot_world # 左上角标题
+site_name: Carrot World # 左上角标题
 site_url: https://github.com/root-hbx # 可以修改！
-site_author: 胡博瑄
-site_description: 胡博瑄的学习网站
+site_author: Boxuan Hu
+site_description: 胡博瑄的学习主页
 
 # [Navigtion]
 nav:
@@ -44,11 +44,11 @@ nav:
     - BLOG/others.md
     - BLOG/tool.md
     - Markdown:
-      - BLOG/Markdown/grammars.md
+      - 基础语法介绍: BLOG/Markdown/grammars.md
     - GithubPages:
-      - BLOG/Markdown/mkdocs-site.md
-      - BLOG/Markdown/mdbook-site.md
-      - BLOG/Markdown/github-pages.md
+      - Mkdocs with GithubPages: BLOG/Markdown/mkdocs-site.md
+      - MdBook with GithubPages: BLOG/Markdown/mdbook-site.md
+      - GithubPages: BLOG/Markdown/github-pages.md
     - Linux:
       - BLOG/Linux/tmux.md
       - BLOG/Linux/unix.md
@@ -58,8 +58,8 @@ nav:
       - BLOG/OS/fork-exec-spawn.md
       - BLOG/OS/fork-example.md
     - Vim:
-      - BLOG/Vim/Vim配置指南.md
-      - BLOG/Vim/vim.md
+      - Vim 配置指南: BLOG/Vim/Vim配置指南.md
+      - Vim 学习笔记: BLOG/Vim/vim.md
     - 在macOS上用VSCode写C++代码:
       - 0 介绍: BLOG/vscode-cpp/0_about.md
       - 1 前言和课程说明: BLOG/vscode-cpp/1_前言和课程说明.md
@@ -139,32 +139,32 @@ nav:
   - 优秀论文整理:
     - sci/index.md
     - 计算机网络:
-      - RDMA_over_Commodity_Ethernet_at_Scale:
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Abstruct).md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Background).md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Introduction).md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Conclusion).md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/3_DSCP-BASED PFC.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.1_RDMA_transport_livelock(传输活锁).md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.2_PFC Deadlock.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.3_NIC_PFC_pause_frame_storm.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.4_The_Slow-receiver_symptom.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/5_RDMA_In_Production.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/6_EXPERIENCES.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/7_RELATED WORK.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/8_CONCLUSION.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/“读后感”.md
-        - sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/issue_thinking.md
-      - ICDCS23_Less_is_More_Dynamic_and_Shared_Headroom_Allocation_in_PFC-enabled_Datacenter_Networks:
-        - sci/计算机网络/LessIsMore/LessIsMore_Abstruct.md
-        - sci/计算机网络/LessIsMore/LessIsMore_Introduction.md
-        - sci/计算机网络/LessIsMore/LessIsMore_Background.md
-        - sci/计算机网络/LessIsMore/LessIsMore_Motivation.md
-        - sci/计算机网络/LessIsMore/LessIsMore_DSH_Design.md
-        - sci/计算机网络/LessIsMore/LessIsMore_Evaluation.md
-        - sci/计算机网络/LessIsMore/LessIsMore_RelatedWork.md
-        - sci/计算机网络/LessIsMore/LessIsMore_Conclusion.md
-        - sci/计算机网络/LessIsMore/整理与思考.md
+      - SIGCOMM16 RDMA over Commodity Ethernet at Scale:
+        - Abstruct: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Abstruct).md
+        - Background: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Background).md
+        - Introduction: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Introduction).md
+        - Conclusion: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/RDMA_over_Commodity_Ethernet_at_Scale(Conclusion).md
+        - DSCP-BASED PFC: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/3_DSCP-BASED PFC.md
+        - RDMA Transport Livelock: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.1_RDMA_transport_livelock(传输活锁).md
+        - PFC Deadlock: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.2_PFC Deadlock.md
+        - NIC/PFC Pause Frame Storm: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.3_NIC_PFC_pause_frame_storm.md
+        - Slow Receiver Symptom: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/4.4_The_Slow-receiver_symptom.md
+        - RDMA in Production: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/5_RDMA_In_Production.md
+        - Experiences: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/6_EXPERIENCES.md
+        - Related Work: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/7_RELATED WORK.md
+        - Conclusion: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/8_CONCLUSION.md
+        - Review: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/“读后感”.md
+        - Some Ideas: sci/计算机网络/RDMA_over_Commodity_Ethernet_at_Scale/issue_thinking.md
+      - ICDCS23 Less is More Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks:
+        - Abstruct: sci/计算机网络/LessIsMore/LessIsMore_Abstruct.md
+        - Introduction: sci/计算机网络/LessIsMore/LessIsMore_Introduction.md
+        - Background: sci/计算机网络/LessIsMore/LessIsMore_Background.md
+        - Motivation: sci/计算机网络/LessIsMore/LessIsMore_Motivation.md
+        - DSH Design: sci/计算机网络/LessIsMore/LessIsMore_DSH_Design.md
+        - Evaluation: sci/计算机网络/LessIsMore/LessIsMore_Evaluation.md
+        - Related Work: sci/计算机网络/LessIsMore/LessIsMore_RelatedWork.md
+        - Conclusion: sci/计算机网络/LessIsMore/LessIsMore_Conclusion.md
+        - Review: sci/计算机网络/LessIsMore/整理与思考.md
   
   - 科研软件指南:
     - Sci_doc/index.md
@@ -173,16 +173,16 @@ nav:
       - 1 ns-3入门程序解析: Sci_doc/ns-3/ch1.md
       - 2 ns-3 参数控制: Sci_doc/ns-3/ch2.md
       - 3 ns-3 模拟建立拓扑: Sci_doc/ns-3/ch3.md
-      - 4 ns-3 tracing的全部实现机理: Sci_doc/ns-3/ch4.md
-      - 5 ns-3 Data-Collection: Sci_doc/ns-3/ch5.md
+      - 4 ns-3 Tracing的全部实现机理: Sci_doc/ns-3/ch4.md
+      - 5 ns-3 Data Collection: Sci_doc/ns-3/ch5.md
       - 6 ns-3 复盘思考: Sci_doc/ns-3/ch6.md
 
-  - 猜猜我是谁:
+  - 自我介绍:
     - ME/index.md
-    - ME/description.md
-    - ME/ability.md
-    - ME/experience.md
-    - ME/php.md
+    - 个人特点: ME/description.md
+    - 个人能力: ME/ability.md
+    - 个人经历: ME/experience.md
+    - 有意义的照片: ME/php.md
   
   - 《胡说》:
     - HuSay/index.md
