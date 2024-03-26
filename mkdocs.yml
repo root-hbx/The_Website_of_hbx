@@ -70,9 +70,9 @@ nav:
       - 6 VSCode代码运行自动化: BLOG/vscode-cpp/6_VSCode代码运行自动化.md
       - 7 用VSCode调试Cpp代码: BLOG/vscode-cpp/7_用VSCode调试Cpp代码.md
       - 8 课程回顾: BLOG/vscode-cpp/8_课程回顾.md
-      - 其他: BLOG/vscode-cpp/9_others.md
-      - 极速版: BLOG/vscode-cpp/10_极速版.md
-      - 补充: BLOG/vscode-cpp/11_补充.md
+      - 9 其他: BLOG/vscode-cpp/9_others.md
+      - 10 极速入门版: BLOG/vscode-cpp/10_极速版.md
+      - 11 补充: BLOG/vscode-cpp/11_补充.md
 
   - 计算机课程整理:
     - curriculum_study/index.md
@@ -221,7 +221,7 @@ theme:
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 repo_url: https://github.com/root-hbx # 右上角点击跳转的链接
-repo_name: GithubRepo_of_hbx # 右上角的名字
+repo_name: root-hbx # 右上角的名字
 ## [bottom-left corner]
 copyright: Boxuan Hu  CC-BY-4.0 # 左下角的版权声明
 ## [bottom-right corner]
