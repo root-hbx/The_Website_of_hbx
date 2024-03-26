@@ -76,7 +76,7 @@ nav:
 
   - 计算机课程整理:
     - curriculum_study/index.md
-    - C++PrimerPlus:
+    - C++ Primer Plus:
       - curriculum_study/C++PrimerPlus/chapter2开始学习c++.md
       - curriculum_study/C++PrimerPlus/chapter3处理数据.md
       - curriculum_study/C++PrimerPlus/chapter4复合类型.md
@@ -95,40 +95,40 @@ nav:
       - curriculum_study/C++PrimerPlus/chapter16string类和标准模板库.md
       - curriculum_study/C++PrimerPlus/chapter17输入、输出和文件.md
       - curriculum_study/C++PrimerPlus/chapter18探讨c++新标准.md
-    - CSAPP_(CMU):
-      - curriculum_study/CSAPP_CMU/常见汇编指令.md
-      - curriculum_study/CSAPP_CMU/chapter2_信息的表示和处理.md
-      - curriculum_study/CSAPP_CMU/chapter3_程序的机器级表示.md
-      - curriculum_study/CSAPP_CMU/chapter5_优化程序性能.md
-      - curriculum_study/CSAPP_CMU/chapter6_存储器的层次结构.md
-      - curriculum_study/CSAPP_CMU/chapter7_链接.md
-    - TD_net:
+    - Computer Systems - A Programmer's Perspective:
+      - chapter 0 常见汇编指令: curriculum_study/CSAPP_CMU/常见汇编指令.md
+      - chapter 2 信息的表示和处理: curriculum_study/CSAPP_CMU/chapter2_信息的表示和处理.md
+      - chapter 3 程序的机器级表示: curriculum_study/CSAPP_CMU/chapter3_程序的机器级表示.md
+      - chapter 5 优化程序性能: curriculum_study/CSAPP_CMU/chapter5_优化程序性能.md
+      - chapter 6 存储器的层次结构: curriculum_study/CSAPP_CMU/chapter6_存储器的层次结构.md
+      - chapter 7 链接: curriculum_study/CSAPP_CMU/chapter7_链接.md
+    - Computer Networking - A Top-Down Approach:
       - curriculum_study/TD_net/ch1.md
       - curriculum_study/TD_net/ch2.md
       - curriculum_study/TD_net/ch3.md
       - curriculum_study/TD_net/ch4.md
       - curriculum_study/TD_net/ch5.md      
       - curriculum_study/TD_net/ch6.md
-    - Info-theory:
-      - curriculum_study/Info-theory/lec3.md
-      - curriculum_study/Info-theory/lec4.md
-      - curriculum_study/Info-theory/lec5.md
-      - curriculum_study/Info-theory/lec6.md
-      - curriculum_study/Info-theory/lec7.md
-      - curriculum_study/Info-theory/lec8.md
-      - curriculum_study/Info-theory/lec9.md
-      - curriculum_study/Info-theory/lec10.md
-      - curriculum_study/Info-theory/lec11.md
-      - curriculum_study/Info-theory/lec12.md
-      - curriculum_study/Info-theory/lec13.md
-      - curriculum_study/Info-theory/lec14.md
+    - Info Theory:
+      - Lecture 3 AEP: curriculum_study/Info-theory/lec3.md
+      - Lecture 4 Entropy Rate: curriculum_study/Info-theory/lec4.md
+      - Lecture 5 Data Compression Part1: curriculum_study/Info-theory/lec5.md
+      - Lecture 6 Data Compression Part2: curriculum_study/Info-theory/lec6.md
+      - Lecture 7 Data Compression Part3: curriculum_study/Info-theory/lec7.md
+      - Lecture 8 Channel Capacity Part1: curriculum_study/Info-theory/lec8.md
+      - Lecture 9 Channel Capacity Part2: curriculum_study/Info-theory/lec9.md
+      - Lecture 10 Channel Capacity Part3: curriculum_study/Info-theory/lec10.md
+      - Lecture 11 Differential Entropy Part1: curriculum_study/Info-theory/lec11.md
+      - Lecture 12 Differential Entropy Part2: curriculum_study/Info-theory/lec12.md
+      - Lecture 13 Gaussian Channel: curriculum_study/Info-theory/lec13.md
+      - Lecture 14 Review: curriculum_study/Info-theory/lec14.md
     - Algorithm Design:
       - 1. 期末备考指南: curriculum_study/Algorithm_XJTU/qimo_review.md
       - 2. 常用算法模板: curriculum_study/Algorithm_XJTU/qimo_big.md
       - 3. 练习题: curriculum_study/Algorithm_XJTU/qimo_exe.md
     - Software Defined Network:
-      - 0 Preface: curriculum_study/SDN/Lecture0_Preface.md
-      - 1 Network Fundamentals: curriculum_study/SDN/Lecture1_Network_Fundamentals.md
+      - 0. Preface: curriculum_study/SDN/Lecture0_Preface.md
+      - 1. Network Fundamentals: curriculum_study/SDN/Lecture1_Network_Fundamentals.md
     - Introduction to 2D Game Development:
       - Outline: curriculum_study/Introduction_to_2D_Game_Development/M0.md
       - Module 1: curriculum_study/Introduction_to_2D_Game_Development/M1.md
